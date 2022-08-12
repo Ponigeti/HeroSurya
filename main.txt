@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 backbenchers came...
 =======
 welcome to citiustech
 text added by sathvik
 >>>>>>> origin/sathvik
+=======
+edit text
+>>>>>>> origin/surya
